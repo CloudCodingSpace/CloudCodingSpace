@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <i>Breaking my sanity with Vulkan's <code>VK_ERROR_DEVICE_LOST</code> since day one.</i>
+  <i>A coder who codes for fun</i>
 </p>
 
 ---
