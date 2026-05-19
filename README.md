@@ -1,7 +1,8 @@
-<h1 align="center">Hey 👋, I'm CloudCodingSpace</h1>
-<h3 align="Left">C/C++ Developer • Vulkan/Graphics Enthusiast • Engine Programmer</h3>
+<h1 align="center">Hello!! I'm CloudCodingSpace</h1>
+<h3 align="Left">A low level dev enjoyer • C/C++ Developer • Vulkan/Graphics Enthusiast • Engine Programmer</h3>
 
 <p align="left">
+  From India, Asia.
   Currently building <b>MeltedForge</b> — a custom game engine written in C using Vulkan.
 </p>
 
@@ -11,9 +12,9 @@
 
 ---
 
-## 🚀 Main Project
+## Main Project
 
-### 🔥 MeltedForge
+### MeltedForge
 A hobby game engine written in C using the Vulkan API, aiming to eventually ship real games.
 
 This is currently my largest and most time-invested project.
@@ -22,21 +23,21 @@ This is currently my largest and most time-invested project.
 
 ---
 
-## 📦 Other Projects
+## Other Projects
 
-### 🎯 RayTracer
+### RayTracer
 Basic Monte-Carlo path tracer written in C++.
 
 🔗 https://github.com/CloudCodingSpace/RayTracer
 
-### 📝 Slog
+### Slog
 A small lightweight logger written in pure C with no external dependencies.
 
 🔗 https://github.com/CloudCodingSpace/slog
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
@@ -58,7 +59,7 @@ Favorite language: C.
 
 ---
 
-## 🧰 Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
@@ -67,7 +68,7 @@ Favorite language: C.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CloudCodingSpace&show_icons=true&theme=tokyonight" height="180"/>
@@ -81,13 +82,13 @@ Favorite language: C.
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 [![CloudCodingSpace github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CloudCodingSpace&theme=tokyo-night)](https://github.com/CloudCodingSpace)
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Game engine programming
 - Graphics rendering
@@ -98,6 +99,6 @@ Favorite language: C.
 
 ---
 
-## 🌌 Current Goal
+## Current Goal
 
 Finish MeltedForge and eventually make a fully playable game using my own engine.
