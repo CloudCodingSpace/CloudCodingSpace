@@ -2,7 +2,6 @@
 <h3 align="Left">A low level dev enjoyer • C/C++ Developer • Vulkan/Graphics Enthusiast • Engine Programmer</h3>
 
 <p align="left">
-  From India, Asia.
   Currently building <b>MeltedForge</b> — a custom game engine written in C using Vulkan.
 </p>
 
