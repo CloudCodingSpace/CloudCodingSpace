@@ -98,6 +98,6 @@ Favorite language: C.
 
 ---
 
-## Current Goal
+## Motto
 
-Finish MeltedForge and eventually make a fully playable game using my own engine.
+*Be a better than I was yesterday!*
