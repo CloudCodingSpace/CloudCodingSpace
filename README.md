@@ -100,4 +100,4 @@ Favorite language: C.
 
 ## Motto
 
-*Be a better than I was yesterday!*
+*Be better than I was yesterday!*
