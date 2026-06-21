@@ -34,6 +34,11 @@ A small lightweight logger written in pure C with no external dependencies.
 
 🔗 https://github.com/CloudCodingSpace/slog
 
+### Happy Birthday
+A small compute shader based on Vulkan 1.0 which renders a Cake using only maths and raymarching in glsl
+
+🔗 https://github.com/CloudCodingSpace/HappyBirthday
+
 ---
 
 ## Tech Stack
